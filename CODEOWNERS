@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Infi19
+/src/backend/database.py      @Infi19
+/src/backend/routers/auth.py  @Infi19
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Infi19
